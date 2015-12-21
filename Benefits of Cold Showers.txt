@@ -87,24 +87,20 @@ n. 苦味；苦啤酒
 adj. 苦的；痛苦的；尖刻的；充满仇恨的
 vt. 使变苦
 adv. 激烈地；严寒刺骨地
-n. (Bitter)人名；(英、法、德、芬、捷、匈)比特
 
 shiver
 n. 颤抖，战栗；碎片
 vi. 颤抖；哆嗦；打碎
 vt. 颤抖；打碎
-n. (Shiver)人名；(英)希弗
 
 anger
 n. 怒，愤怒；忿怒
 vt. 使发怒，激怒；恼火
 vi. 发怒；恼火
-n. (Anger)人名；(罗)安杰尔；(法)安热；(德、捷、瑞典)安格尔
 
 coin
 vt. 铸造（货币）；杜撰，创造
 n. 硬币，钱币
-n. (Coin)人名；(西、意)科因；(法)库安
 
 alertness
 n. 警戒；机敏
@@ -127,18 +123,15 @@ rate
 n. 比率，率；速度；价格；等级
 vt. 认为；估价；责骂
 vi. 责骂；被评价
-n. (Rate)人名；(法、塞)拉特
 
 natural
 n. 自然的事情；白痴；本位音
 adj. 自然的；物质的；天生的；不做作的
-n. (Natural)人名；(西)纳图拉尔
 
 dose
 n. 剂量；一剂，一服
 vt. 给药；给…服药
 vi. 服药
-n. (Dose)人名；(德)多泽；(意、西、葡、塞)多塞；(英)多斯
 
 urologist
 n. [泌尿] 泌尿科医师
@@ -159,4 +152,89 @@ n. 沐浴；浴室；浴盆
 vt. 洗澡
 vi. 洗澡
 
+claim  [kle?m] 
+n. 要求；声称；索赔；断言；值得
+vt. 要求；声称；需要；认领
+vi. 提出要求
 
+refine [r?'fa?n] 
+vt. 精炼，提纯；改善；使…文雅
+
+tendency  ['tend(?)ns?]
+n. 倾向，趋势；癖好
+
+cuticle  ['kju?t?k(?)l]
+n. 角质层；表皮；护膜
+
+pore  [p??]
+vi. 细想；凝视；熟读
+n. 气孔；小孔
+vt. 使注视
+
+clogged  [kl?gd]
+v. 阻塞；妨碍（clog的过去分词）
+adj. 阻塞的；堵住的
+
+seal  [si?l]
+n. 密封；印章；海豹；封条；标志
+vt. 密封；盖章
+vi. 猎海豹
+
+scalp  [sk?lp]
+n. 头皮；战利品
+vt. 剥头皮
+vi. 剥头皮
+
+dirt  [d??t]
+n. 污垢，泥土；灰尘，尘土；下流话
+
+board  [b??d]
+n. 董事会；木板；甲板；膳食
+vt. 上（飞机、车、船等）；用板盖上；给提供膳宿
+vi. 寄宿
+
+certified  ['s??t?fa?d]
+v. 证明，证实；颁发合格证书（certify的过去分词形式）
+adj. 被证明的；有保证的；具有证明文件的
+
+board-certified
+委员会认证
+
+dermatologist  [,d??m?'t?l?d??st]
+n. 皮肤科医生；皮肤学者
+
+Huffington Post
+n. 赫芬顿邮报
+
+lukewarm  [,l?k'w?m]
+adj. 冷淡的；微温的；不够热心的
+
+stripped  [str?pt]
+v. 剥夺（strip的过去分词形式）；脱衣；把…剪成条状
+adj. 剥去的
+
+constrict  [k?n'strikt]
+vt. 压缩；束紧
+
+shrink  [?r??k]
+n.收缩；畏缩；<俚>精神病学家
+vt. 使缩小，使收缩
+vi. .收缩；畏缩
+
+haircare  ['he?ke?; 'h??k??]
+n. 头发的护理
+
+shiny  ['?a?n?]
+adj. 有光泽的，擦亮的；闪耀的；晴朗的；磨损的
+
+flatten  ['fl?t(?)n]
+vt. 击败，摧毁；使……平坦
+vi. 变平；变单调
+
+follicle  ['f?l?k(?)l]
+n. 卵泡；滤泡；小囊
+
+grip  [gr?p] 
+n. 紧握；柄；支配；握拍方式；拍柄绷带
+vt. 紧握；夹紧
+vi. 抓住
