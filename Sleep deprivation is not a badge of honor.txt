@@ -1,12 +1,28 @@
 https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75#.ycxlthvfs
-Forgoing sleep is like borrowing from a loan shark. Sure you get those extra hours right now to cover for your overly-optimistic estimation, but at what price? The shark will be back, and if you can’t pay, he’ll break your creativity, morale, and good-mannered nature as virtue twigs.
-Now we all borrow occasionally, and that’s okay if you fully understand the consequences and don’t make it a habit. I did that the other night. We pushed an update to our single-signon system for Basecamp, which had me working until 1:30 AM. That wouldn’t have been so bad if it wasn’t because I got woken up at 5 AM to help deal with an issue that arose. But the costs the following day were typical, numerable, and high:
-Stubbornness: When I’m really tired, it always seems easier to plow down whatever bad path I happen to be on instead of reconsidering the route. The finish line is a constant mirage and I’ll be walking in the desert for much longer than is ever a good idea.
-Lack of creativity: What separates programmers who are 10x more effective than the norm is not that they write 10x as many lines of code. It’s that they use their creativity to solve the problem with a tenth of the effort. The creativity to come up with those 1/10 solutions drops drastically when I’m tired.
-Diminished morale: When my brain isn’t firing on all cylinders, it loves to feed on less demanding tasks. Like reading my RSS feeds for the 5th time today or reading yet another article about stuff that doesn’t matter. My motivation to attack the problems of real importance is not nearly up to par.
-Irritability: If you encounter someone who’s acting like an ass, there’s a good chance they’re suffering from sleep deprivation. Your ability to remain patient and tolerant is severely impacted when you’re tired. I know I’m at my worst when sleep deprived.
-These are just some of the costs you incur when not getting enough sleep. None of them are desirable. Yet somehow it seems that the tech industry still celebrates a masochistic sense of honor about sleep deprivation. At times it sounds like bragging rights. People trying to top each other. For what? To seem so important, so in need, so desired that humanity requires you to sacrifice? Chances are you’re not that special, not that needed, and the job at hand not that urgent.
-Software development is rarely a sprint, but mostly a marathon. Multiple marathons, actually. So trying to extract 110% performance from today when that means having only 70% performance available tomorrow is a bad deal. You end up with just 77% of your available peak. Bad trade.
-This is why I’ve always tried to get about 8 1/2 hours of sleep. That seems to be the best way for me to get access to peak mental performance. You might well require less (or more), but to think you can do with 6 hours or less is probably an illusion. Worse, it’s an illusion you’ll have a hard time bursting. Sleep-deprived people often vastly underestimate the impact on their abilities, studies have shown.
-So get more sleep. Stop bragging about how little you got. Make your peak mental capacity accessible.
-I originally wrote this post back in 2008 (and a version feature in REWORK). But after a couple of kids arrived, I remembered just how silly it is to voluntarily subject yourself to sleep deprivation. When you’re responsible for another little human, you have no choice. When you’re just trying to ship a new feature or a product, you absolutely do. Go The Fuck To Sleep.
+Forgoing放弃 sleep is like borrowing from a [loan shark放高利贷者]. Sure you get those extra hours right now to cover for your overly过度地-optimistic乐观的 estimation估计, but at what price? The shark骗子 will be back, and if you can’t pay, he’ll break your creativity创造力, morale斗志, and good-mannered有礼貌的 nature本性 as virtue美德 twigs理解.
+
+Now we all borrow occasionally偶尔, and that’s okay if you fully understand the consequences后果 and don’t make it a habit习惯. I did that the other night. We pushed an update to our single-signon单点登录 system for Basecamp大本营, which had me working until 1:30 AM. That wouldn’t have been so bad if it wasn’t because I got woken up at 5 AM to help deal with an issue that arose出现. But the costs代价 the following day were typical, numerable可计算的, and high:
+
+
+Stubbornness倔强: When I’m really tired, it always seems easier to plow犁地 down whatever bad path I happen to be on instead of reconsidering the route路线. The finish line is a constant mirage幻想，妄想 and I’ll be walking in the desert for much longer than is ever a good idea.
+
+Lack of creativity: What separates programmers who are 10x more effective than the norm is not that they write 10x as many lines of code. It’s that they use their creativity to solve the problem with a tenth of the effort. The creativity to come up with those 1/10 solutions drops drastically彻底地 when I’m tired.
+
+Diminished减弱的 morale: When my brain isn’t firing on all cylinders气缸, it loves to feed on less demanding苛求的；要求高的；吃力的 tasks. Like reading my RSS feeds for the 5th time today or reading yet another article about stuff that doesn’t matter. My motivation积极性 to attack the problems of real importance is not nearly [up to par达到标准].
+
+Irritability易怒: If you encounter someone who’s acting like an ass蠢人, there’s a good chance they’re suffering from sleep deprivation. Your ability to remain patient and tolerant宽容的 is severely严重地 impacted压紧的 when you’re tired. I know I’m at my worst when sleep deprived缺少食物的.
+
+
+These are just some of the costs you incur招致 when not getting enough sleep. None of them are desirable令人满意的；值得要的. Yet somehow it seems that the tech industry still celebrates a masochistic受虐狂的；自讨苦吃的 [sense of honor荣誉感] about sleep deprivation. [At times有时] it sounds like bragging吹牛 rights. People trying to top each other. For what? To seem so important, so in need, so desired that humanity人类 requires you to sacrifice牺牲? [Chances are有可能] you’re not that special, not that needed, and the job at hand not that urgent紧急的，急迫的.
+
+Software development is rarely a sprint冲刺，全速跑, but mostly a marathon马拉松. Multiple marathons, actually. So trying to extract 110% performance from today when that means having only 70% performance available tomorrow is a bad deal. You end up with just 77% of your available peak峰值. Bad trade.
+
+This is why I’ve always tried to get about 8 1/2 hours of sleep. That seems to be the best way for me to get access to peak mental精神的；脑力的 performance. You might well require less (or more), but to think you can do with 6 hours or less is probably an illusion幻觉. Worse, it’s an illusion you’ll have a hard time bursting充满的；渴望的. Sleep-deprived people often vastly极大地，深远地 underestimate低估 the impact影响 on their abilities, studies have shown.
+
+So get more sleep. Stop braggin吹牛，自夸 about how little you got. Make your peak mental capacity容量 accessible.
+
+
+I originally wrote this post back in 2008 (and a version feature in REWORK). But after a couple of kids arrived, I remembered just how silly愚蠢的 it is to voluntarily自动地 subject yourself to sleep deprivation. When you’re responsible for another little human, you have no choice. When you’re just trying to ship a new feature or a product, you absolutely do. Go The Fuck To Sleep.
+
+loan贷款
+shark骗子
