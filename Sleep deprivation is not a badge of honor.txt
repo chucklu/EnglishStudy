@@ -1,28 +1,29 @@
-https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75#.ycxlthvfs
-Forgoing·ÅÆú sleep is like borrowing from a [loan shark·Å¸ßÀû´ûÕß]. Sure you get those extra hours right now to cover for your overly¹ı¶ÈµØ-optimisticÀÖ¹ÛµÄ estimation¹À¼Æ, but at what price? The sharkÆ­×Ó will be back, and if you can¡¯t pay, he¡¯ll break your creativity´´ÔìÁ¦, morale¶·Ö¾, and good-manneredÓĞÀñÃ²µÄ nature±¾ĞÔ as virtueÃÀµÂ twigsÀí½â.
+# [Sleep deprivation is not a badge of honor](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75#.ycxlthvfs)
 
-Now we all borrow occasionallyÅ¼¶û, and that¡¯s okay if you fully understand the consequencesºó¹û and don¡¯t make it a habitÏ°¹ß. I did that the other night. We pushed an update to our single-signonµ¥µãµÇÂ¼ system for Basecamp´ó±¾Óª, which had me working until 1:30 AM. That wouldn¡¯t have been so bad if it wasn¡¯t because I got woken up at 5 AM to help deal with an issue that arose³öÏÖ. But the costs´ú¼Û the following day were typical, numerable¿É¼ÆËãµÄ, and high:
+Forgoingæ”¾å¼ƒ sleep is like borrowing from a [loan sharkæ”¾é«˜åˆ©è´·è€…]. Sure you get those extra hours right now to cover for your overlyè¿‡åº¦åœ°-optimisticä¹è§‚çš„ estimationä¼°è®¡, but at what price? The sharkéª—å­ will be back, and if you canâ€™t pay, heâ€™ll break your creativityåˆ›é€ åŠ›, moraleæ–—å¿—, and good-manneredæœ‰ç¤¼è²Œçš„ natureæœ¬æ€§ as virtueç¾å¾· twigsç†è§£.
 
-
-Stubbornness¾óÇ¿: When I¡¯m really tired, it always seems easier to plowÀçµØ down whatever bad path I happen to be on instead of reconsidering the routeÂ·Ïß. The finish line is a constant mirage»ÃÏë£¬ÍıÏë and I¡¯ll be walking in the desert for much longer than is ever a good idea.
-
-Lack of creativity: What separates programmers who are 10x more effective than the norm is not that they write 10x as many lines of code. It¡¯s that they use their creativity to solve the problem with a tenth of the effort. The creativity to come up with those 1/10 solutions drops drastically³¹µ×µØ when I¡¯m tired.
-
-Diminished¼õÈõµÄ morale: When my brain isn¡¯t firing on all cylindersÆø¸×, it loves to feed on less demanding¿ÁÇóµÄ£»ÒªÇó¸ßµÄ£»³ÔÁ¦µÄ tasks. Like reading my RSS feeds for the 5th time today or reading yet another article about stuff that doesn¡¯t matter. My motivation»ı¼«ĞÔ to attack the problems of real importance is not nearly [up to par´ïµ½±ê×¼].
-
-IrritabilityÒ×Å­: If you encounter someone who¡¯s acting like an ass´ÀÈË, there¡¯s a good chance they¡¯re suffering from sleep deprivation. Your ability to remain patient and tolerant¿íÈİµÄ is severelyÑÏÖØµØ impactedÑ¹½ôµÄ when you¡¯re tired. I know I¡¯m at my worst when sleep deprivedÈ±ÉÙÊ³ÎïµÄ.
+Now we all borrow occasionallyå¶å°”, and thatâ€™s okay if you fully understand the consequencesåæœ and donâ€™t make it a habitä¹ æƒ¯. I did that the other night. We pushed an update to our single-signonå•ç‚¹ç™»å½• system for Basecampå¤§æœ¬è¥, which had me working until 1:30 AM. That wouldnâ€™t have been so bad if it wasnâ€™t because I got woken up at 5 AM to help deal with an issue that aroseå‡ºç°. But the costsä»£ä»· the following day were typical, numerableå¯è®¡ç®—çš„, and high:
 
 
-These are just some of the costs you incurÕĞÖÂ when not getting enough sleep. None of them are desirableÁîÈËÂúÒâµÄ£»ÖµµÃÒªµÄ. Yet somehow it seems that the tech industry still celebrates a masochisticÊÜÅ°¿ñµÄ£»×ÔÌÖ¿à³ÔµÄ [sense of honorÈÙÓş¸Ğ] about sleep deprivation. [At timesÓĞÊ±] it sounds like bragging´µÅ£ rights. People trying to top each other. For what? To seem so important, so in need, so desired that humanityÈËÀà requires you to sacrificeÎşÉü? [Chances areÓĞ¿ÉÄÜ] you¡¯re not that special, not that needed, and the job at hand not that urgent½ô¼±µÄ£¬¼±ÆÈµÄ.
+* **Stubbornnesså€”å¼º**: When Iâ€™m really tired, it always seems easier to plowçŠåœ° down whatever bad path I happen to be on instead of reconsidering the routeè·¯çº¿. The finish line is a constant mirageå¹»æƒ³ï¼Œå¦„æƒ³ and Iâ€™ll be walking in the desert for much longer than is ever a good idea.
 
-Software development is rarely a sprint³å´Ì£¬È«ËÙÅÜ, but mostly a marathonÂíÀ­ËÉ. Multiple marathons, actually. So trying to extract 110% performance from today when that means having only 70% performance available tomorrow is a bad deal. You end up with just 77% of your available peak·åÖµ. Bad trade.
+* **Lack of creativity**: What separates programmers who are 10x more effective than the norm is not that they write 10x as many lines of code. Itâ€™s that they use their creativity to solve the problem with a tenth of the effort. The creativity to come up with those 1/10 solutions drops drasticallyå½»åº•åœ° when Iâ€™m tired.
 
-This is why I¡¯ve always tried to get about 8 1/2 hours of sleep. That seems to be the best way for me to get access to peak mental¾«ÉñµÄ£»ÄÔÁ¦µÄ performance. You might well require less (or more), but to think you can do with 6 hours or less is probably an illusion»Ã¾õ. Worse, it¡¯s an illusion you¡¯ll have a hard time bursting³äÂúµÄ£»¿ÊÍûµÄ. Sleep-deprived people often vastly¼«´óµØ£¬ÉîÔ¶µØ underestimateµÍ¹À the impactÓ°Ïì on their abilities, studies have shown.
+* **Diminishedå‡å¼±çš„ morale**: When my brain isnâ€™t firing on all cylindersæ°”ç¼¸, it loves to feed on less demandingè‹›æ±‚çš„ï¼›è¦æ±‚é«˜çš„ï¼›åƒåŠ›çš„ tasks. Like reading my RSS feeds for the 5th time today or reading yet another article about stuff that doesnâ€™t matter. My motivationç§¯ææ€§ to attack the problems of real importance is not nearly [up to parè¾¾åˆ°æ ‡å‡†].
 
-So get more sleep. Stop braggin´µÅ££¬×Ô¿ä about how little you got. Make your peak mental capacityÈİÁ¿ accessible.
+* **Irritabilityæ˜“æ€’**: If you encounter someone whoâ€™s acting like an assè ¢äºº, thereâ€™s a good chance theyâ€™re suffering from sleep deprivation. Your ability to remain patient and tolerantå®½å®¹çš„ is severelyä¸¥é‡åœ° impactedå‹ç´§çš„ when youâ€™re tired. I know Iâ€™m at my worst when sleep deprivedç¼ºå°‘é£Ÿç‰©çš„.
 
 
-I originally wrote this post back in 2008 (and a version feature in REWORK). But after a couple of kids arrived, I remembered just how sillyÓŞ´ÀµÄ it is to voluntarily×Ô¶¯µØ subject yourself to sleep deprivation. When you¡¯re responsible for another little human, you have no choice. When you¡¯re just trying to ship a new feature or a product, you absolutely do. Go The Fuck To Sleep.
+These are just some of the costs you incuræ‹›è‡´ when not getting enough sleep. None of them are desirableä»¤äººæ»¡æ„çš„ï¼›å€¼å¾—è¦çš„. Yet somehow it seems that the tech industry still celebrates a masochisticå—è™ç‹‚çš„ï¼›è‡ªè®¨è‹¦åƒçš„ [sense of honorè£èª‰æ„Ÿ] about sleep deprivation. [At timesæœ‰æ—¶] it sounds like braggingå¹ç‰› rights. People trying to top each other. For what? To seem so important, so in need, so desired that humanityäººç±» requires you to sacrificeç‰ºç‰²? [Chances areæœ‰å¯èƒ½] youâ€™re not that special, not that needed, and the job at hand not that urgentç´§æ€¥çš„ï¼Œæ€¥è¿«çš„.
 
-loan´û¿î
-sharkÆ­×Ó
+Software development is rarely a sprintå†²åˆºï¼Œå…¨é€Ÿè·‘, but mostly a marathoné©¬æ‹‰æ¾. Multiple marathons, actually. So trying to extract 110% performance from today when that means having only 70% performance available tomorrow is a bad deal. You end up with just 77% of your available peakå³°å€¼. Bad trade.
+
+This is why Iâ€™ve always tried to get about 8 1/2 hours of sleep. That seems to be the best way for me to get access to peak mentalç²¾ç¥çš„ï¼›è„‘åŠ›çš„ performance. You might well require less (or more), but to think you can do with 6 hours or less is probably an illusionå¹»è§‰. Worse, itâ€™s an illusion youâ€™ll have a hard time burstingå……æ»¡çš„ï¼›æ¸´æœ›çš„. Sleep-deprived people often vastlyæå¤§åœ°ï¼Œæ·±è¿œåœ° underestimateä½ä¼° the impactå½±å“ on their abilities, studies have shown.
+
+So get more sleep. Stop bragginå¹ç‰›ï¼Œè‡ªå¤¸ about how little you got. Make your peak mental capacityå®¹é‡ accessible.
+
+
+I originally wrote this post back in 2008 (and a version feature in REWORK). But after a couple of kids arrived, I remembered just how sillyæ„šè ¢çš„ it is to voluntarilyè‡ªåŠ¨åœ° subject yourself to sleep deprivation. When youâ€™re responsible for another little human, you have no choice. When youâ€™re just trying to ship a new feature or a product, you absolutely do. Go The Fuck To Sleep.
+
+loanè´·æ¬¾
+sharkéª—å­
